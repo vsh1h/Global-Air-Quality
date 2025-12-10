@@ -1,0 +1,11 @@
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+mlxtend==0.22.0
+scipy==1.10.1
+
+# Jupyter environment
+jupyter==1.0.0
+ipython==8.10.0
